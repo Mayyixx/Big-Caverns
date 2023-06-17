@@ -8,3 +8,5 @@
 | Knight's Shaft | Level 55       | Voir document Knight's Shaft       | Trop                |
 | Deep Den       | Level 125 + T4 | Foodium, Paladium, Hardened Stone  | Rick, Morty         |
 | Hell Quarry    | Level 155 + T6 | Obsidian, Luminite, Quartz, Basalt | jésépo              |
+
+Note: Les indications Tx représentent le tier du Heart of the Mountain requis.

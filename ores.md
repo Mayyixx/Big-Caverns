@@ -5,6 +5,7 @@
 Dans les Big Caverns, il y a plein de minerais (plenty o' ores comme ils disent outre rhin), les voici:
 
 | Nom | Location exacte | Prix | Xp | Rareté | Mining Power |
+|-|-|-|-|-|-|
 | Coal | Upper Mines | 1$ | 1xp | COMMON | 1 |
 | Iron | Medium Caves | 5$ | 2xp | COMMON | 2 |
 | Gold | Lower Mines | 8$ | 5xp | UNCOMMON | 3 |

@@ -1,5 +1,5 @@
 # Stats
-## Base Stats
+### Base Stats
 - level "lvl"
 - experience "xp"
 - experience limit before next level "xpmax"

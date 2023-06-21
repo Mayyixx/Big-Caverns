@@ -1,8 +1,13 @@
 # Stats
-### Base Stats
-- level "lvl"
-- experience "xp"
-- experience limit before next level "xpmax"
-- HotM tier "hotmlvl"
-- HotM experience "hotmxp"
-- HotM experience limit before next level "hotmxpmax"
+
+| Variable | Représentation en code housing |
+|-|-|
+| Level | *lvl* |
+| Experience | *xp* |
+| Maximal Experience | *xpmax* |
+| HotM Tier | *hotmlvl* |
+| HotM Experience | *hotmxp* |
+| HotM Maximal Experience | *hotmxpmax* |
+| Money | *money* |
+| Mining Power | *mp* |
+| Quest | *quest* |

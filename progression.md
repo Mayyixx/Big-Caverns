@@ -10,3 +10,7 @@
 | Hell Quarry    | Level 155 + T6 | Obsidian, Luminite, Quartz, Basalt | jésépo              | Basalt Velley, Quartz Veins, Obsidian Corridor, Luminite Shafts | Aucun | HQ |
 
 Note: Les indications Tx (Tier [x]) représentent le tier du Heart of the Mountain requis.
+
+## Rareté
+
+COMMON < UNCOMMON < RARE < EPIC < LEGENDARY < MYTHIC < EXCLUSIVE = SPECIAL

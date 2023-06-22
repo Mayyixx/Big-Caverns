@@ -1,7 +1,6 @@
 # Les shops
 
-Il y a deux shops dans les Big Caverns: le Trainway Shop (trouvable dans les Lower Mines, tenu par Bobby) et le King's Shop (trouvable dans le
-Village du Knight's Shaft, tenu par Matt). Il y a également le Bazaar, qui est un shop spécial.
+There are two shops in the Big Caverns: the Trainway Shop (can be found in Lower Mines, managed by Bobby) and the King's Shop (can be found in Knight's Shaft's Village, managed by Matt). There is also the Bazaar which is a special shop.
 
 ## Trainway Shop
 
@@ -9,5 +8,4 @@ Village du Knight's Shaft, tenu par Matt). Il y a également le Bazaar, qui est 
 
 ## Bazaar
 
-Le Bazaar est un shop spécial qui ne fait que acheter des minerais, des gemstones, des minerais purifiés ou des pierres (Hardened Stone et
-Basalt)
+Bazaar is a special shop that can only buy ores, gemstones, refined ores or stones (Hardened Stone and Basalt)

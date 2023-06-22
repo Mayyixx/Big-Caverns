@@ -1,6 +1,6 @@
 # Stats
 
-| Variable | Représentation en code housing |
+| Stat | Representation in housing code |
 |-|-|
 | Level | *lvl* |
 | Experience | *xp* |

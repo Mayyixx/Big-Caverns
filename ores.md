@@ -1,9 +1,8 @@
-# Minerais, pierres, gemmes
+# Ore, stones, gemstones
 
-## Les minerais
+## Ores
 
-
-| Nom | Location exacte | Prix | Xp | Rareté | Mining Power |
+| Name | Exact Location | Price | Xp | Rarity | Mining Power |
 |-|-|-|-|-|-|
 | Coal | Upper Mines | 1$ | 1xp | COMMON | 1 |
 | Iron | Medium Caves | 5$ | 2xp | COMMON | 2 |
@@ -21,26 +20,22 @@
 | Obsidian | Hell Quarry (Obsidian Corridor) | 750$ | 200xp | EPIC | 8 |
 | Luminite | Hell Quarry (Luminite Shafts) | 1000$ | 250xp | MYTHIC | 9 |
 
-## Les pierres
+## Stones
 
 
-| Pierre | Location exacte | Prix | Xp | Rareté | Mining Power |
+| Stone | Exact Location | Price | Xp | Rarity | Mining Power |
 |-|-|-|-|-|-|
 | Hardened Stone | Deep Den | 100$ | 50xp | EPIC | 7 |
-| Basalt | Hell Quarry (Basalt ..., Hot Lava Springs) | 250$ | 50xp | EPIC | 7 |
+| Basalt | Hell Quarry (Basalt Valley, Hot Lava Springs) | 250$ | 50xp | EPIC | 7 |
 
-## Les gemstones
+## Gemstones
 
-
-| Gemstone | Prix | Xp HotM | Rareté | Mining Power | Effet |
+| Gemstone | Price | Xp HotM | Rarity | Mining Power | Effect |
 |-|-|-|-|-|-|
-| Amethyst | J | S | P | : | / |
-| Sapphire | J | S | P | : | / |
-| Ruby | J | S | P | : | / |
-| Topaz | J | S | P | : | / |
-| Jasper | J | S | P | : | / |
-| Amber |  J | S | P | : | / |
-| Jade | J | S | P | : | / |
-| Zircon | cher | 500xp | EXCLUSIVE | 7 | Haste |
-| Onyx | J | S | P | : | / |
-| Opale | J | S | P | : | / |
+| Amethyst | J | S | P | : | Strength |
+| Sapphire | J | S | P | : | Night Vision |
+| Ruby | J | S | P | : | Fire Resistance |
+| Topaz | J | S | P | : | Speed |
+| Jade | J | S | P | : | Jump Boost |
+| Zircon | expensive | 500xp | EXCLUSIVE | 7 | Haste |
+

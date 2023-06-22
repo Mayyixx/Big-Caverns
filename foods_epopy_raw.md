@@ -1,0 +1,255 @@
+FOOD'S EPOPY
+
+**Prologue**
+
+I do not think any of you
+Of this story has got a clue;
+It may seem false, also crazy
+Maybe it's true, no one to see!
+If of miners tales you're readers
+Or of adventures great lookers,
+Then this story is made for you;
+But if reading you don't want to
+Then let it be! And in my grave,
+Let me bring all my miners, brave!
+
+
+### Chapter XII
+**The rebellion ends**
+
+The sun had reached his highest place,
+But in the cave no one could sense;
+The fire bursts; the anger rises
+Along with that the sun arises
+And with the sun arises hope
+To get more rights, but they said "Nope"
+In this context did Food wake up
+His head aching, coffee in cup
+He drank it, trying to guess out
+Why the anger? He had some doubts
+The rebels were lining outside
+Food, though, did follow them aside
+Walking slowly trying to find
+Where were his friends? They would be kind
+To yell at him. But would it hear?
+Workers were too many; who here
+Would guess where Food was half hiding?
+No one can find, I am bidding!
+Thought Food while walking through the crowd
+All miners were shouting aloud.
+At last, he managed of finding
+Where good Karim was here screaming
+Along with others; when Food'd seen
+Him, he did say, 'Where have you been?'
+'I was seeking for you, my friend'
+Answered Karim, reaching the end
+Of the small cave where all of them
+A little pause were having some.
+And then, behold, attacking with surprise
+Of the Lazy Miner's allies;
+They don't have swords, they have pickaxes
+Not that useful! Some come with axes!
+The crowd yelling, but now of fear
+Now to them it was crystal clear:
+The Lazy Miner was angry
+The crowd leader: 'They come for me!'
+Well, he was right! At that moment
+They ran at him, with a lament
+No one heard him ever again
+Of his body, the head remained...
+All the others, staring at this
+Began to run: that was abyss!
+Meanwhile, Food stood here with Karim
+The enemies were launching steam
+And, all of a sudden, all stopped
+All went to work, their pickaxes dropped!
+That same day went both Food and You
+To Lazy Miner, askin' their due!
+They said 'Hello', he greeted them;
+Well he knew that they weren't with 'em
+That half-rebelled against his rules.
+'What do you want? You ain't those fools
+Who made me kill this poor miner.'
+They looked each other; Food said, 'Sir,
+We'd want you to allow us to
+Go to Knights' Shaft, of that told you
+It is a good place, isn't it?'
+He said: 'Permission? I grant it!
+You're only both who remain good
+May you get all you need, you should!
+However, dudes, listen to me:
+There the ruler, it isn't me;
+They speak weirdly, you'll get used to.
+Now go, have fun, and both of you!'
+Food and You didn't wait to go:
+In front the door, none of them knows
+What there awaits them; here they go!
+Taken by darkness, they go low...
+
+
+### Chapter XIII
+**Welcome to Knight's Shaft!**
+
+When out the dark they came to light
+All was glowy, all was so bright;
+The colors of all the ores here
+Made them blind, like drunk by some beer.
+They came out the arcade and so
+A man was here, holding a bow;
+He had a kind of good armor,
+Not of i'on made, its price was more:
+The ore was blue, legendary,
+An ore all knew, no one did see;
+Its name, all knew, it is mithril
+For that, all humans would have killed.
+The knight in armor talked to them:
+'Greetings, dear friends, where are ye from?'
+He talked in a strange way, for sure
+Maybe for this there was a cure;
+H'wever, Food brave, talked to he:
+'Who are you, mate, fall from a tree?'
+The man in front, a good soldier
+Did understand so much anger:
+He took Food's speech for an insult
+Bow to shoulder was the result;
+You however understood well
+That the soldier, what Food had tell,
+Took it for slang. And, politely,
+He answered very calmly:
+'We beg thy pardon, our good friend;
+We're not from here, this step's our end:
+We seek for things that may tell us
+Where the good fate here hath brought us;
+Pardon my friend! He asked thee
+If thou hast ever fell from tree.'
+The soldier's face then had a smile
+What in his head could have pass by!
+What a polite man he was, You
+That they were old, that well he knew.
+So the soldier placed bow on floor
+And behind them closed the big door
+'My name's Harry, but what is thine?'
+'You's it'; answered he, while on spine
+Shivers were making him trembling.
+'If you're new here, then may I bring
+You to the place where is our King;
+His name's Arthur, the righteous King
+Of Knight's Shaft he's; a so good being!'
+Food did not understand a thing...
+The soldier left them here, for true:
+You said they could find it, although
+They were new here, and he knew it.
+They began to walk on some bits
+Of stone that were cut off in squares
+To make paths, where were men with spears.
+You's confident: what could go wrong?
+He thought of that walking along.
+Food looked around, his eyes streaming
+Of all colors he was seeing;
+Blue, green, orange, gray everywhere
+Ores he never saw anywhere;
+'Blue's mithril', said You while walking
+Towards the palace of the King
+'I've seen how you spoke to that guard,
+I didn't catch a word of that'
+'It's easy, hey!' said You happy
+To learn to Food a thing quickly:
+'You only need to replace you
+by thou, thee, thy, thine, 't' to put
+You'll speak like me, for sure, I swear!'
+They passed near two men with two spears.
+They didn't see it while talking:
+They had ent'red Palace of King!
+The trumpets rang, like an anthem
+A mighty man looking at them;
+He wore a long red cape for him
+For it shoulders made it had been
+His wonderful crown of pure gold
+With pure jewels all to behold
+He had a great smile on his face:
+It's like he waited them for ages.
+Food quickly understood the point:
+King Arthur! They reached their endpoint.
+
+
+
+### Chapter XXXII
+**Food the Miner am I**
+
+That day the Knight's Shaft was boiling:
+Food a big speech was then making;
+In front of the King he would say
+How much he thanks him, stuff, but hey
+All long that day, in all the streets
+Any here comes to any, greets,
+And shout together; ''live the King!'
+'Long live Food!' and Food was dreading;
+Eventually, the hour had rang
+To the palace everyone ranks;
+Food's not alone; You is with him
+As well as Bibow and Karim
+The noise now drops, the silence sets
+Kneeling to King, nearer he gets
+And Food then begins all those words
+He feels the looking of the hordes...
+'Food the Miner am I, faithful,
+To my homeland's eternal blood;
+To homeland shall I be trustful
+Until death decides me to fool;
+A Knight of King Arthur am I,
+For him, loyal and fearless I'm,
+And shall remain; And King Arthur
+Never shall I betray, for sure.
+My shield and hope art Thou, O King;
+Thou hast helped me when I'd needing
+To Thee I make a final gain:
+Please never leave me'alone again
+That I'd remain forevermore
+Thy most faithful knight anymore
+And that the dark parts that I have
+Never ever to Thee behave.'
+The crowd exults, people applause;
+'Needing' torments him, then a pause.
+'Long live the King!' and 'Long live Food!'
+Food then stands up; that wasn't good!
+
+### Big bad dwarf curses a ring (Book V)
+
+Am I now free? Like, really free?	
+Then towards you is, yes, for free	
+My freedom's first greeting; listen	
+You thieve, what you're getting, listen!	
+Since by a curse it's been coming,	
+Then forever be cursed this Ring!	
+Since it made me fully mighty,		
+Then may it bring the death to he	
+That's wearing it; of it, no one	
+Will get pleasure. He that has one	
+Will fear a betray, a rob'ry,		
+He that hasn't shall feel envy		
+That he would even kill to have		
+This dear robb'd Ring I used to have!	
+He that has it will then renounce	
+To his owning the slightest ounce!	
+The Ring will get any cov'ring,		
+He'll live only for his gold ring		
+It shall make burn any of them		
+That are full of the ev'ry gems!		
+Useful for none, every want it!		
+But only one will get this bit		
+Of gold that stole ago the dwarf;	
+It will kill him, like the death scarf!	
+Ever fatal to its owner			
+That won't ever be a loaner;		
+It shall lead him to his cutthroats	
+And of this here I make the oath!	
+It shall the coward paralyze		
+Nowhere ever he'll find allies;		
+It will make of the life a death		
+Oddly harmful will be to breathe!	
+Oh, the Ring's lord? More the ring's slave! 
+The wage for what I didn't gave!	
+Until this day, this blissful day		
+Where the Ring won't be of me away!
+Then keep it, King, keep then my Ring!	
+My curse Thou shalt not be flying!	

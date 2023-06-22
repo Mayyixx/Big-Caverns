@@ -2,7 +2,6 @@
 
 ## Les minerais
 
-Les minerais des Big Caverns
 
 | Nom | Location exacte | Prix | Xp | Rareté | Mining Power |
 |-|-|-|-|-|-|
@@ -24,7 +23,6 @@ Les minerais des Big Caverns
 
 ## Les pierres
 
-Les pierres des Big Caverns
 
 | Pierre | Location exacte | Prix | Xp | Rareté | Mining Power |
 |-|-|-|-|-|-|
@@ -33,7 +31,6 @@ Les pierres des Big Caverns
 
 ## Les gemstones
 
-Les gemstones des Big Caverns
 
 | Gemstone | Prix | Xp HotM | Rareté | Mining Power | Effet |
 |-|-|-|-|-|-|

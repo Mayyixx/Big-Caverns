@@ -4,6 +4,14 @@ Les pioches sont le seul outil important des Big Caverns.
 
 Chaque pioche possède un Mining Power qui lui permet de casser certains minerais.
 
+**Toutes les pioches avec un Mining Power supérieur à 5 doivent être crées dans le Knight's Shaft (sauf la Food's Pick, puisque c'est la
+pioche staff.)**
+
+La Food's Pick a pour Ability le Food's Blessing, qui donne Haste 10, Speed 3, Night Vision, Jump Boost 3, Absorption, Fire Resistance,
+Resistance, Regeneration et cé tou. Elle est inobtensible, seulement par la commande /foodpick et seuls trois joueurs peuvent l'utiliser:
+XxBlazeBerryxX, YouLeGamer et firefood. Elle a un Mining Power de 10, le plus haut possible mais jamais requis, prouvant qu'il s'agit
+d'une pioche staff.
+
 | Nom | Mining Power | Lieu où la trouver (+NPC) | Prix | Rareté | Abilité | Requirements |
 |-|-|-|-|-|-|-|
 | Lazy Miner's Pickaxe | 1 | Upper Mines (Lazy Miner) | - | COMMON | Speed | - |

@@ -1,18 +1,14 @@
-# Les pioches
+# Pïckaxes
 
-Les pioches sont le seul outil important des Big Caverns.
+Pickaxes are the only important tool of Big Caverns.
 
-Chaque pioche possède un Mining Power qui lui permet de casser certains minerais.
+Each pickaxe has a proper mining power that allows it to break certain ores.
 
-**Toutes les pioches avec un Mining Power supérieur à 5 doivent être crées dans le Knight's Shaft (sauf la Food's Pick, puisque c'est la
-pioche staff.)**
+**Every pickaxe with a mining power greater than 5 gotta be created in Knight's Shaft, at the exception of the Food's Pick, as it's the Staff Pickaxe.**
 
-La Food's Pick a pour Ability le Food's Blessing, qui donne Haste 10, Speed 3, Night Vision, Jump Boost 3, Absorption, Fire Resistance,
-Resistance, Regeneration et cé tou. Elle est inobtensible, seulement par la commande /foodpick et seuls trois joueurs peuvent l'utiliser:
-XxBlazeBerryxX, YouLeGamer et firefood. Elle a un Mining Power de 10, le plus haut possible mais jamais requis, prouvant qu'il s'agit
-d'une pioche staff.
+The Food's Pickaxe has for ability the Food's Blessing , that grants Haste 10, Speed 3, Night Vision, Jump Boost 3, Absorption, Fire Resistance, Resistance, Regeneration ant thats it. It cant be normally obtained, only with the command /foodpick. Only three players are able to use it: XxBlazeBerryxX, YouLeGamer et firefood. It has a mining power of 10, the highest Mining Power yet never required, proving it's a staff pickaxe.
 
-| Nom | Mining Power | Lieu où la trouver (+NPC) | Prix | Rareté | Abilité | Requirements |
+| Name | Mining Power | Where to find it (+NPC) | Price | Rarity | Ability | Requirements |
 |-|-|-|-|-|-|-|
 | Lazy Miner's Pickaxe | 1 | Upper Mines (Lazy Miner) | - | COMMON | Speed | - |
 | Upgraded Lazy Miner's Pickaxe | 2 | Medium Caves (Ben) | 100$ | COMMON | Haste | Lazy Miner's Pickaxe |

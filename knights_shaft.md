@@ -16,6 +16,15 @@ The Knight's Shaft is also, economically speaking, a very important place: it co
 | The Forge | HotM Tier 3 | - | Harald, Larry |
 | King's Palace | - | - | Arthur, Gauvain, Perceval, Yvain |
 | Soldiers' Dwelling | - | - | Miklos |
+| Diamond Crater |
+| Emerald Grotto |
+| Mithril Geodes |
+| Paladium Cave |
+| Titanium Cliffs |
+| Jewels Reserve |
+| King's Corridor |
+| The Great Chessboard |
+| Great Glacite Wall |
 
 ## Trivia
 

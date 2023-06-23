@@ -16,15 +16,28 @@ The Knight's Shaft is also, economically speaking, a very important place: it co
 | The Forge | HotM Tier 3 | - | Harald, Larry |
 | King's Palace | - | - | Arthur, Gauvain, Perceval, Yvain |
 | Soldiers' Dwelling | - | - | Miklos |
-| Diamond Crater |
-| Emerald Grotto |
-| Mithril Geodes |
-| Paladium Cave |
-| Titanium Cliffs |
-| Jewels Reserve |
-| King's Corridor |
-| The Great Chessboard |
-| Great Glacite Wall |
+| Diamond Crater | - | Diamond | - |
+| Emerald Grotto | - | Emerald | - |
+| Mithril Geodes | - | Mithril | - |
+| Paladium Cave | - | Paladium | - |
+| Titanium Cliffs | - | Titanium | - |
+| Jewels Reserve | - | Gemstones | - |
+| King's Corridor | - | Mithril | The Historian |
+| The Great Chessboard | - | - | Magnus |
+| Great Glacite Wall | - | Glacite | - |
+| I feel like i've forgotten one | idk | neither | :/ |
+
+## Quests
+
+### The Apprentice's Puzzles
+Luke asks puzzles to the player who gotta find the answer button in the Knight's Shaft. Each puzzle has a picarats level. At each bad answer, the player loses 10 picarats. At the end, the number of picarats remaining * 100 = the HotM EXP gotten by the quest.
+
+**tldr**: 3000000h to find rdm buttons and anwser stupid puzzles.
+
+### Olaf's Request
+Olaf asks the player to find steles. Thats it. No reward, no quest number, just finding stupid steles.
+
+### 
 
 ## Trivia
 
@@ -36,5 +49,31 @@ The Knight's Shaft is also, economically speaking, a very important place: it co
 * **Olaf** gets his name from the Historian Zora in *The Legend of Zelda: Breath of the Wild* (or at least i think olaf is his name)
 * **The Historian** is inspired of the Skyblock's Archaeologist.
 * **Luke** is, in the *Professor Layton* games saga, the apprentice of Professor Layton, bri'ish archaeologist, investigator and puzzle passionate.
-* 
+* **Magnus** is inspired of the real chess player Magnus Carlsen, aka best chess player atm
+* **The Historian** is the first NPC mentioning the existence of Food and Foodium.
+* Every NPC in the Knight's Shaft, at the exception of Matt, Miklos, Luke and The Historian, speak in a weird way described later.
 
+## Addendum 1: The Weird Way of Speaking (aka Shakespearean English)
+
+| Pronoun | French Equivalent | Modern Equivalent | Hungarian Equivalent | Note |
+|-|-|-|-|-|
+| thou | tu | you (singular) | te |
+| thee | toi, te | you (singular, complement) | téged |
+| thy | ton, ta, tes | your (singular) | a te |
+| thine | ton, ta, tes | your (singular), yours | a te | Only "your" if the word after begins with a vowel. *thine eyes* |
+| thyself | toi-même | yourself (singular) | magad |
+| ye | vous (pluriel) | you (plural) | te | All the derivatives of ye are the same as in modern english. (your, yourself...)|
+| mine | mon, ma, mes | my, mine | az enyém | As for "thine", only replaces my if the word begins with a vowel. *mine eyes* |
+
+**Exceptions are highlightened.**
+
+| Pronoun | Conjugation | Examples | English Translation |
+|-|-|-|-|
+| thou | -t, -est | thou shalt, thou willst, thou wantest, thou tellest, **thou art**, **thou hast**, **thou doest**, **thou canst** | you shall, you will, you want, you tell, you are, you have, you do, you can | 
+| he, she, it | -th instead of -s | **he shall** he willeth, he wanteth, he telleth, **he is**, he hath, he doth, **he can** |
+| **it is** | 'tis | 'Tis this I wanted to talk thee about. | It's this I wanted to talk you about. |
+
+**Other important things:**
+* The future auxiliary is rarely *will*, instead use *shall*.
+  
+**Note pour Food**: le français "oyé oyé braves gens" vient en fait de l'anglais "o ye", toujours utilisé par les crieurs pour les déclarations royales tah le couronnement.

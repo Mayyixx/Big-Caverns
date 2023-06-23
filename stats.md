@@ -11,3 +11,4 @@
 | Money | *money* |
 | Mining Power | *mp* |
 | Quest | *quest* |
+| Discovered Areas | *zd* |

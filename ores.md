@@ -10,6 +10,7 @@
 | Lapis | Lower Mines | 8$ | 5xp | UNCOMMON | 3 |
 | Copper | Lower Mines | 15$ | 8xp | UNCOMMON | 3 |
 | Lead | Lower Mines | 15$ | 8xp | UNCOMMON | 3 |
+| Tin | Lower Mines | 12$ | 8xp | UNCOMMON | 3 |
 | Diamant | Knight's Shaft (Diamond Crater) | 45$ | 25xp | RARE | 4 |
 | Emerald | Knight's Shaft (Emerald Grotto) | 40$ | 25xp | RARE | 4 |
 | Mithril | Knight's Shaft (Mithril Geodes) | 50$ | 40xp | EPIC | 5 |

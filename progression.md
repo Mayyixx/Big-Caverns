@@ -1,4 +1,6 @@
-# Areas progression 
+# General game Areas / Level progression 
+
+## Areas
 
 | Name of the Area | Required levels | Ores                  | NPCs in the area     | Under-Areas | Shops | Abbreviation  |
 |----------------|----------------|------------------------------------|---------------------|-|-|-|
@@ -11,6 +13,25 @@
 
 Note: The indications Tx (Tier [x]) represent the Heart of the Mountain required Tier.
 
-## Rarity classes
+## Levels
 
-COMMON < UNCOMMON < RARE < EPIC < LEGENDARY < MYTHIC < EXCLUSIVE = SPECIAL
+  The following table describes the four main ways of increasing the xpmax, the fourth one being irregular
+  Note: x = xpmax, y = level, z = new xpmax, a = xpmax coefficient
+
+| Formula | Description | Notes |
+|-|-|-|
+| z = x * 2 | The xpmax is multiplied by 2 per level. | This formula is used in Placeholder. |
+| z = x + 5 | Adds 5 to the xpmax per level. | This formula was used by Big Caverns v1 |
+| z = 2x + (x - y) / 2 | The xpmax is doubled and adds the half of xpmax - level | This formula was used by Big Caverns v2 at the beginning. |
+| z = x + a | Adds the xpmax coefficient to the xpmax per level | This formula is the one currently used in Big Caverns v2 (if Food decides to implement it) |
+
+Here is the table of the xpmax coefficient for the fourth formula, changing when you first discover a new area.
+
+| Area | Xpmax Coefficient |
+|-|-|
+| Upper Mines | 10 |
+| Medium Caves | 20 |
+| Lower Mines | 30 |
+| Knight's Shaft | 100 |
+| Deep Den | 10000 |
+| Hell Quarry | 11000 |

@@ -16,14 +16,17 @@ Note: The indications Tx (Tier [x]) represent the Heart of the Mountain required
 ## Levels
 
   The following table describes the four main ways of increasing the xpmax, the fourth one being irregular
-  Note: x = xpmax, y = level, z = new xpmax, a = xpmax coefficient
+  
+*Note: x = xpmax, y = level, z = new xpmax, a = xpmax coefficient*
 
-| Formula | Description | Notes |
-|-|-|-|
-| z = x * 2 | The xpmax is multiplied by 2 per level. | This formula is used in Placeholder. |
-| z = x + 5 | Adds 5 to the xpmax per level. | This formula was used by Big Caverns v1 |
-| z = 2x + (x - y) / 2 | The xpmax is doubled and adds the half of xpmax - level | This formula was used by Big Caverns v2 at the beginning. |
-| z = x + a | Adds the xpmax coefficient to the xpmax per level | This formula is the one currently used in Big Caverns v2 (if Food decides to implement it) |
+| Formula | Description | Notes | Effect / Problem | Reset ? |
+|-|-|-|-|-|
+| z = x * 2 | The xpmax is multiplied by 2 per level. | This formula is used in Placeholder. | Too much xp to farm | No |
+| z = x + 5 | Adds 5 to the xpmax per level. | This formula was used by Big Caverns v1 | Not enough xp to farm | Yes |
+| z = x + (x - y) / 2 | The xpmax is doubled and adds the half of xpmax - level | This formula was used by Big Caverns v2 at the beginning. | Too hard to calculate + too much xp to farm | Yes |
+| z = x + a | Adds the xpmax coefficient to the xpmax per level | This formula is the one currently used in Big Caverns v2. | Perfect | Yes |
+
+Note that the second formula is the same than the fourth one, but with a regular coefficient which is 5.
 
 Here is the table of the xpmax coefficient for the fourth formula, changing when you first discover a new area.
 

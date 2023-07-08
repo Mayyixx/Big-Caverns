@@ -11,7 +11,7 @@ The Food's Pickaxe has for ability the Food's Blessing , that grants Haste 10, S
 | Name | Mining Power | Where to find it (+NPC) | Price | Rarity | Ability | Requirements |
 |-|-|-|-|-|-|-|
 | Lazy Miner's Pickaxe | 1 | Upper Mines (Lazy Miner) | - | COMMON | Speed | - |
-| Upgraded Lazy Miner's Pickaxe | 2 | Medium Caves (Ben) | 100$ | UNCOMMON | Haste | Lazy Miner's Pickaxe |
+| Upgraded Lazy Miner's Pickaxe | 2 | Medium Caves (Ben) | 100$ | UNCOMMON | Efficiency | Lazy Miner's Pickaxe |
 | Chief Miner's Pickaxe | 3 | Trainway Shop | 2500$ | UNCOMMON | - | - |
 | Epic Chief Miner's Pickaxe | 4 | Trainway Shop | 15000$ | RARE | Haste | - |
 | Mithril Pickaxe | 5 | King's Shop | 50000$ | EPIC | - | - |

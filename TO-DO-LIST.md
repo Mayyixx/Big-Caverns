@@ -2,13 +2,20 @@
 
 ## Food
 
-- If not already done, restrict the /foodpick with the rank [MANAGER] (so that blaze, food and you can use it)
-- Making the iron drop system
-- Change the xpmax system
-- Correcting the /reset
-- Adding the region for going in Medium Caves
-- Integrating the xpmaxcoeff system
-- Change the scoreboard and the title at the entrance of Upper Mines
-- Adding the Mining Power for the pickaxes
-- Helping with building the Lower Mines
-- Create the pickaxes functions
+- Restreindre le /foodpick (si pas déjà fait)
+- Faire le système de drop d'iron
+- Changer le système d'xpmax
+- Refaire le /reset
+- Mettre les régions
+- Rajouter le xpmaxcoeff
+- Changer le title de zone discovered pour les Upper Mines
+- Changer le scoreboard
+- Ajouter le Mining Power pour toutes les Pickaxes
+- Faire les fonctions pour les Pickaxes
+
+## You
+
+- Changer le dialogue du NPC Bazaar
+- Finir les pickaxes
+- Finir le bazaar
+- Se poser les bonnes questions sur les prix et le balancement

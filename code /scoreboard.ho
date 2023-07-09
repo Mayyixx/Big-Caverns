@@ -12,7 +12,7 @@ house_settings{
     &5| &fHotM XP: &5%stat.player/hotmxp%/%stat.player/hotmxpmax%
     &e| &fMoney: &e%stat.player/money%
     *blank line*
-    &6| Mining Power: &6%stat.player/mp%
+    &6| &fMining Power: &6%stat.player/mp%
     
   }
   

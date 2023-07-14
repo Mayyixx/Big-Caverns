@@ -35,6 +35,6 @@ Here is the table of the xpmax coefficient for the fourth formula, changing when
 | Upper Mines | 10 |
 | Medium Caves | 20 |
 | Lower Mines | 30 |
-| Knight's Shaft | 100 |
+| Knight's Shaft | 500 |
 | Deep Den | 10000 |
 | Hell Quarry | 11000 |

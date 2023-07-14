@@ -19,3 +19,5 @@
 - Finir les pickaxes
 - Finir le bazaar
 - Se poser les bonnes questions sur les prix et le balancement
+- Finir le npc medium mines
+- 

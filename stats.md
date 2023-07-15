@@ -3,7 +3,7 @@
 | Stat | Representation in housing code |
 |-|-|
 | Level | *lvl* |
-| Old Level | *oldlvl* ou *previouslvl* ? |
+| Old Level | *previouslvl* ? |
 | Experience | *xp* |
 | Maximal Experience | *xpmax* |
 | HotM Tier | *hotmlvl* |

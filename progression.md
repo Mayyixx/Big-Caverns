@@ -9,7 +9,7 @@
 | Lower Mines    | Level 20       | Lapis, Lead, Gold, Copper          | Bibow, Karim, Faeke, Bobby | None | Trainway Shop | LM |
 | Knight's Shaft | Level 55       | Voir document Knight's Shaft       | Harry, Olaf, Matt, Luke, Harald, Larry, Arthur, Gauvain, Yvain, Perceval, Magnus, The Historian, Fuze, Miklós | Way too much | King's Shop | KS |
 | Deep Den       | Level 125 + T4 | Foodium, Paladium, Hardened Stone  | Rick, Morty, Food         | None | None | DD |
-| Hell Quarry    | Level 155 + T6 | Obsidian, Luminite, Quartz, Basalt | dunno              | Basalt Valley, Quartz Veins, Obsidian Corridor, Luminite Shafts | None | HQ |
+| Hell Quarry    | Level 155 + T6 | Obsidian, Luminite, Quartz, Basalt | The Devil             | Basalt Valley, Quartz Veins, Obsidian Corridor, Luminite Shafts | None | HQ |
 
 Note: The indications Tx (Tier [x]) represent the Heart of the Mountain required Tier.
 

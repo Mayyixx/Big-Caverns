@@ -5,18 +5,18 @@ Les quêtes secondaires des big caverns
 ## Lower Mines
 
 ### Such a bitter man (Main Quest)
-**Resume**: The player must fix Karim's problems. Litterally.
+**Résumé**: Fo régler les pb à Karim.
 
 ### Fishermen's Duty (Secondary Quest)
-**Résumé**: Faeke teaches the player how to fish, he must fish several fishes.
+**Résumé**: Faeke apprend au joueur à pêcher, il doit lui ramener des poissons.
 
 ### A caveman's request (Secondary Quest)
-**Résumé**: Bibow asks the player to bring him different ores from the Knight's Shaft.
+**Résumé**: Bibow demande au joueur de lui ramener des minerais du Knight's Shaft.
 
 ## Knight's Shaft
 
 ### The palace of the King (Main Quest)
-**Résumé**: The player must find King Arthur's Palace.
+**Résumé**: Le joueur doit trouver le palais du Roi Arthur.
 
 ### The King's Commissions (Important Secondary Quest)
 **Résumé**: Le joueur doit réaliser diverses commissions pour le roi Arthur.

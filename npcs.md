@@ -12,18 +12,18 @@ Ben the Miner
 
 The Traveller, Bibow, Karim, Bobby, Faeke
 
-# Knight's Shaft
+## Knight's Shaft
 
 Harry, Luke, Olaf, Matt, The Historian, King Arthur, Percival, Ywain, Gawain, Magnus, Kenneth, Senta, Fuze, Miklos, The Wanderer, John, Mary, Harald, Larry, Knight 1, Knight 2, Flying Dutchman
 
-# Deep Den
+## Deep Den
 
 Rick, Morty
 
-# Hell Quarry
+## Hell Quarry
 
 King Piglin, Slimey Adventurer, *le boug du shop*, 
 
-# Surface
+## Surface
 
 Food

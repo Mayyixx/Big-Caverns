@@ -14,4 +14,16 @@ The Traveller, Bibow, Karim, Bobby, Faeke
 
 # Knight's Shaft
 
-Harry, Luke, Olaf, Matt, The Historian, King Arthur, Percival, Yvain, Gawain, Magnus, 
+Harry, Luke, Olaf, Matt, The Historian, King Arthur, Percival, Ywain, Gawain, Magnus, Kenneth, Senta, Fuze, Miklos, The Wanderer, John, Mary, Harald, Larry, Knight 1, Knight 2,
+
+# Deep Den
+
+Rick, Morty
+
+# Hell Quarry
+
+King Piglin, Slimey Adventurer, *le boug du shop*, 
+
+# Surface
+
+Food

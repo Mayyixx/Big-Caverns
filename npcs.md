@@ -14,7 +14,7 @@ The Traveller, Bibow, Karim, Bobby, Faeke
 
 ## Knight's Shaft
 
-Harry, Luke, Olaf, Matt, The Historian, King Arthur, Percival, Ywain, Gawain, Magnus, Kenneth, Senta, Fuze, Miklos, The Wanderer, John, Mary, Harald, Larry, Knight 1, Knight 2, Flying Dutchman
+Harry, Luke, Olaf, Matt, The Historian, King Arthur, Percival, Ywain, Gawain, Magnus, Kenneth, Senta, Fuze, Miklos, The Wanderer, John, Mary, Harald, Larry, Knight 1, Knight 2, Flying Dutchman, Don Espresso
 
 ## Deep Den
 

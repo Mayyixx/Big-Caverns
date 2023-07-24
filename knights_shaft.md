@@ -10,22 +10,22 @@ The Knight's Shaft is also, economically speaking, a very important place: it co
 
 ## Sub-Areas, Ores and NPCs
 
-| Sub-Area | Requirements | Ore | NPCs |
-|-|-|-|-|
-| Village | - | - | Olaf, Luke, Harry, Matt |
-| The Forge | HotM Tier 3 | - | Harald, Larry |
-| King's Palace | - | - | Arthur, Gauvain, Perceval, Yvain |
-| Soldiers' Dwelling | - | - | Miklos |
-| Diamond Crater | - | Diamond | - |
-| Emerald Grotto | - | Emerald | - |
-| Mithril Geodes | - | Mithril | - |
-| Paladium Cave | - | Paladium | - |
-| Titanium Cliffs | - | Titanium | - |
-| Jewels Reserve | - | Gemstones | - |
-| King's Corridor | - | Mithril | The Historian |
-| The Great Chessboard | - | - | Magnus |
-| Great Glacite Wall | - | Glacite | - |
-| I feel like i've forgotten one | idk | neither | :/ |
+| Sub-Area | Requirements | Ore | NPCs | Done or not |
+|-|-|-|-|-|
+| Village | - | - | Olaf, Luke, Harry, Matt | Done |
+| The Forge | HotM Tier 3 | - | Harald, Larry | Not Done |
+| King's Palace | - | - | Arthur, Gauvain, Perceval, Yvain | Doing |
+| Soldiers' Dwelling | - | - | Miklos | Not Done |
+| Diamond Crater | - | Diamond | - | Done |
+| Emerald Grotto | - | Emerald | - | Not Done |
+| Mithril Geodes | - | Mithril | - | Done |
+| Paladium Cave | - | Paladium | - | Not Done |
+| Titanium Cliffs | - | Titanium | - | Done |
+| Jewels Reserve | - | Gemstones | - | Not Done |
+| King's Corridor | - | Mithril | The Historian | Not Done |
+| The Great Chessboard | - | - | Magnus | Doing |
+| Great Glacite Wall | - | Glacite | - | Not Done |
+| I feel like i've forgotten one | idk | neither | :/ | :( |
 
 ## Quests
 

@@ -24,7 +24,7 @@ The Knight's Shaft is also, economically speaking, a very important place: it co
 | Jewels Reserve | - | Gemstones | - | Not Done |
 | King's Corridor | - | Mithril | The Historian | Not Done |
 | The Great Chessboard | - | - | Magnus | Doing |
-| Great Glacite Wall | - | Glacite | - | Not Done |
+| Great Glacite Wall | - | Glacite | - | Done |
 | I feel like i've forgotten one | idk | neither | :/ | :( |
 
 ## Quests

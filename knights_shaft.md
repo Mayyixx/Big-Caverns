@@ -14,18 +14,17 @@ The Knight's Shaft is also, economically speaking, a very important place: it co
 |-|-|-|-|-|
 | Village | - | - | Olaf, Luke, Harry, Matt | Done |
 | The Forge | HotM Tier 3 | - | Harald, Larry | Not Done |
-| King's Palace | - | - | Arthur, Gauvain, Perceval, Yvain | Doing |
-| Soldiers' Dwelling | - | - | Miklos | Not Done |
+| King's Palace | - | - | Arthur, Gauvain, Perceval, Yvain | Done |
+| Soldiers' Dwelling | - | - | Miklos | Done |
 | Diamond Crater | - | Diamond | - | Done |
 | Emerald Grotto | - | Emerald | - | Not Done |
 | Mithril Geodes | - | Mithril | - | Done |
 | Paladium Cave | - | Paladium | - | Not Done |
 | Titanium Cliffs | - | Titanium | - | Done |
 | Jewels Reserve | - | Gemstones | - | Not Done |
-| King's Corridor | - | Mithril | The Historian | Not Done |
-| The Great Chessboard | - | - | Magnus | Doing |
+| King's Corridor | - | Mithril | The Historian | Doing |
+| The Great Chessboard | - | - | Magnus | Done |
 | Great Glacite Wall | - | Glacite | - | Done |
-| I feel like i've forgotten one | idk | neither | :/ | :( |
 
 ## Quests
 

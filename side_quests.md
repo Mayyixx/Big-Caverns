@@ -44,7 +44,7 @@ Les quêtes secondaires des big caverns
 ### We three knights (Secondary Quest)
 **Résumé**: Perceval, Gauvain et Yvain, trois chevaliers de la table ronde, se battent pour savoir lequel est le plus puissant. Le joueur doit trouver le plu for!
 
-### Such a great gourmet (Secondary Quest)
+### Such a gourmet (Secondary Quest)
 **Résumé**: Le joueur doit rapporter à Don Espresso du Mithril Gourmand (qui pop rarement, une fois sur 20) du mithril normal. Après la quête, le joueur débloque la vente du mithril gourmand qui se revend un peu plus cher que le mithril normal.
 
 ### The old friends (Secondary Quest)
@@ -65,3 +65,20 @@ Depuis, la malédiction est que le bateau doit errer sur les mers à jamais, sau
 La malédiction du Hollandais Volant ne peut se terminer que si jamais une bouguesse vient avec lui et alors dcp la malédiction finito et il repart en mer. Le piti problème c'est que le Hollandais Volant il a été rendu mosh par la malédiction du kou personne veut vnir avec lui :(.
 
 **Résumé dla quête**: Le Hollandais Volant demande au joueur de trouver une bouguesse qui veule bien venir avec lui. Il s'agit de Senta, la fille de Kenneth.
+
+### Harry's Sword (Secondary Quest)
+
+**Résumé**: Le joueur doit retrouver l'épée de Harry selon une description précise, sauf qu'il y a plein d'épes cachées un peu partout dans le Knight's Shaft!
+
+### Fuze's Wish (Secondary Quest)
+
+**Résumé**: Fuze a toujours entendu parler du Paladium Vert (paladium raffiné) mais n'en a jamais vu. Il demande au joueur de lui en ramener 64.
+
+### The two fishermen (Secondary Quest)
+
+**Résumé**: Faeke et le Dutch Fisherman sont des amis de longue date... et des rivaux! (tah Kakashi et Gai). Le Dutch Fisherman demande au joueur de lui ramener un poisson rare pour qu'il puisse s'en vanter à Faeke, mais celui-ci repère l'arnaque. Le Dutch Fisherman demande alors au joueur de pêcher un autre poisson rare et de le donner à Faeke pour les réconcilier.
+
+### Cassy's Emeralds (Secondary Quest)
+
+**Résumé**: Cassy demande au joueur de lui ramener 64 émeraudes... puis 64 diamant... puis 64 titanes raffinés!
+

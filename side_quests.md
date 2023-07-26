@@ -81,4 +81,3 @@ La malédiction du Hollandais Volant ne peut se terminer que si jamais une bougu
 ### Cassy's Emeralds (Secondary Quest)
 
 **Résumé**: Cassy demande au joueur de lui ramener 64 émeraudes... puis 64 diamant... puis 64 titanes raffinés!
-

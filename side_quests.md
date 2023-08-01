@@ -13,6 +13,12 @@ Les quêtes secondaires des big caverns
 ### A caveman's request (Secondary Quest)
 **Résumé**: Bibow demande au joueur de lui ramener des minerais du Knight's Shaft.
 
+| Quest | Implied NPCs | Status | Quest ID | Requirements | Done |
+|-|-|-|-|-|-|
+| Such a bitter man | Karim, Bibow, Faeke | Main Quest | *quest* | - | Done |
+| Fishermen's Duty | Faeke | Secondary Quest | *faeke_quest* | Such a bitter man | Not Done |
+| A caveman's request | Bibow | Secondary Quest | *bibow_quest* | Such a bitter man | Not Done |
+
 ## Knight's Shaft
 
 ### The palace of the King (Main Quest)
@@ -81,3 +87,23 @@ La malédiction du Hollandais Volant ne peut se terminer que si jamais une bougu
 ### Cassy's Emeralds (Secondary Quest)
 
 **Résumé**: Cassy demande au joueur de lui ramener 64 émeraudes... puis 64 diamant... puis 64 titanes raffinés!
+
+| Quest | Implied NPCs | Status | Quest ID | Requirements | Done |
+|-|-|-|-|-|-|
+| The Palace of the King | Harry, Arthur | Main Quest | *quest* | - | Done |
+| The King's Commissions | Arthur | Main Side Quest | *king_commissions* | The Palace of the King | Not Done |
+| Pebbles Collector | Luke | Main Side Quest | *luke_quest* | - | While |
+| The Secret of Knight's Shaft | Luke | Main Side Quest | *luke_quest* | Pebbles Collector | Not Done |
+| The Hidden Steles | Olaf | - | - | - | Done |
+| A man by the name of Food | The Historian, The Wanderer, You, Food | Main Side Quest | *historian_quest* | - | While |
+| The Chosen One | The Wanderer, Karim, Sam, Cassy | Main Side Quest | *wanderer_quest* | A man by the name of Food | While |
+| An Expensive Gift | Larry | Side Quest | *larry_quest* | - | Not Done |
+| We three knights | Percival, Gawain, Ywain | - | - | - | Not Done |
+| Such a gourmet | Don Expresso | Side Quest | *expresso_quest* | - | Not Done |
+| The old friends | Matt, Bobby | Side Quest | *matt_quest* | - | Not Done |
+| A puzzled chessman | Magnus | Side Quest | *magnus_quest* | - | Not Done |
+| The Flying Dutchman | Flying Dutchman, Senta, Kenneth | Side Quest | *flying_quest* | - | Not Done |
+| Harry's Sword | Harry | Side Quest | *harry_quest* | The Palace of the King | Not Done |
+| Fuze's Wish | Fuze | Side Quest | *fuze_quest* | - | Not Done |
+| The two fishermen | Dutch Fisherman, Faeke | Side Quest | *fisherman_quest* | - | Not Done |
+| Cassy's Emeralds | Cassy | Side Quest | *cassy_quest* | - | Not Done |

@@ -92,12 +92,12 @@ La malédiction du Hollandais Volant ne peut se terminer que si jamais une bougu
 |-|-|-|-|-|-|
 | The Palace of the King | Harry, Arthur | Main Quest | *quest* | - | Done |
 | The King's Commissions | Arthur | Main Side Quest | *king_commissions* | The Palace of the King | Not Done |
-| Pebbles Collector | Luke | Main Side Quest | *luke_quest* | - | While |
+| Pebbles Collector | Luke | Main Side Quest | *luke_quest* | - | Done |
 | The Secret of Knight's Shaft | Luke | Main Side Quest | *luke_quest* | Pebbles Collector | Not Done |
 | The Hidden Steles | Olaf | - | - | - | Done |
-| A man by the name of Food | The Historian, The Wanderer, You, Food | Main Side Quest | *historian_quest* | - | While |
+| A man by the name of Food | The Historian, The Wanderer, You, Food | Main Side Quest | *historian_quest* | - | Done |
 | The Chosen One | The Wanderer, Karim, Sam, Cassy | Main Side Quest | *wanderer_quest* | A man by the name of Food | While |
-| An Expensive Gift | Larry | Side Quest | *larry_quest* | - | Not Done |
+| An Expensive Gift | Larry | Side Quest | *larry_quest* | - | While |
 | We three knights | Percival, Gawain, Ywain | - | - | - | Not Done |
 | Such a gourmet | Don Expresso | Side Quest | *expresso_quest* | - | Not Done |
 | The old friends | Matt, Bobby | Side Quest | *matt_quest* | - | Not Done |

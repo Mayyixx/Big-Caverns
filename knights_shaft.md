@@ -91,7 +91,7 @@ Olaf asks the player to find steles. Thats it. No reward, no quest number, just 
 | An Expensive Gift | Larry | Side Quest | *larry_quest* | - | Done |
 | We three knights | Percival, Gawain, Ywain | - | - | - | Not Done |
 | Such a gourmet | Don Expresso | Side Quest | *expresso_quest* | - | Done |
-| The old friends | Matt, Bobby | Side Quest | *matt_quest* | - | While |
+| The old friends | Matt, Bobby | Side Quest | *matt_quest* | - | Done |
 | A puzzled chessman | Magnus | Side Quest | *magnus_quest* | - | Not Done |
 | The Flying Dutchman | Flying Dutchman, Senta, Kenneth | Side Quest | *flying_quest* | - | Not Done |
 | Harry's Sword | Harry | Side Quest | *harry_quest* | The Palace of the King | Not Done |
@@ -99,15 +99,16 @@ Olaf asks the player to find steles. Thats it. No reward, no quest number, just 
 | The two fishermen | Dutch Fisherman, Faeke | Side Quest | *fisherman_quest* | - | Not Done |
 | Cassy's Emeralds | Cassy | Side Quest | *cassy_quest* | - | Not Done |
 | A Caveman's Request | Bibow | Side Quest | *bibow_quest* | Such a bitter man | Not Done |
-| Fishermen's Duty | Faeke | Side Quest | *faeke_quest* | Such a bitter man | Not Done |
+| Fishermen's Duty | Faeke | Side Quest | *faeke_quest* | Such a bitter man | DONE (can't be done yet) |
 | A really lazy miner | Aywen | Side Quest | *aywen_quest* | - | Not Done |
 
 OTHERS:
 
 Make the Bazaar -> Not Done
-Make the Forge -> Whiler
+Make the Forge -> While
 Make the King's Shop -> Not Done
 Finish the Paladium Placing -> Not Done
 Finish the Terraforming in King's Corridor -> Not Done
 Place Swords for Harry's Quest -> Not Done
-Make Foodian -> While
+Make Foodian -> Done
+Fix Trainway Shop -> Done

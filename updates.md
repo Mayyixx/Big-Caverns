@@ -14,7 +14,7 @@
 
 | Update Name | Adds | Estimated Date |
 |-|-|-|
-| Knight's Shaft Update - Part II | Knight's Shaft Lore | August 5th, 2023 |
+| Knight's Shaft Update - Part II | Knight's Shaft Lore | August 7th, 2023 |
 | Knight's Shaft Update - Part III | Knight's Shaft Terraforming | August 10th, 2023 |
 | Fishing Update - Part II | Fishing (Knight's Shaft) | August 12th, 2023 |
 | Knight's Shaft Update - Part IV | Knight's Shaft Opening | August 12th, 2023 |

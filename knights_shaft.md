@@ -76,3 +76,38 @@ Olaf asks the player to find steles. Thats it. No reward, no quest number, just 
 * The future auxiliary is rarely *will*, instead use *shall*.
   
 **Note pour Food**: le français "oyé oyé braves gens" vient en fait de l'anglais "o ye", toujours utilisé par les crieurs pour les déclarations royales tah le couronnement.
+
+# TO DO LIST
+
+| Quest | Implied NPCs | Status | Quest ID | Requirements | Done |
+|-|-|-|-|-|-|
+| The Palace of the King | Harry, Arthur | Main Quest | *quest* | - | Done |
+| The King's Commissions | Arthur | Main Side Quest | *king_commissions* | The Palace of the King | Not Done |
+| Pebbles Collector | Luke | Main Side Quest | *luke_quest* | - | Done |
+| The Secret of Knight's Shaft | Luke | Main Side Quest | *luke_quest* | Pebbles Collector | Done |
+| The Hidden Steles | Olaf | - | - | - | Done |
+| A man by the name of Food | The Historian, The Wanderer, You, Food | Main Side Quest | *historian_quest* | - | Done |
+| The Chosen One | The Wanderer, Karim, Sam, Cassy | Main Side Quest | *wanderer_quest* | A man by the name of Food | While |
+| An Expensive Gift | Larry | Side Quest | *larry_quest* | - | Done |
+| We three knights | Percival, Gawain, Ywain | - | - | - | Not Done |
+| Such a gourmet | Don Expresso | Side Quest | *expresso_quest* | - | Done |
+| The old friends | Matt, Bobby | Side Quest | *matt_quest* | - | While |
+| A puzzled chessman | Magnus | Side Quest | *magnus_quest* | - | Not Done |
+| The Flying Dutchman | Flying Dutchman, Senta, Kenneth | Side Quest | *flying_quest* | - | Not Done |
+| Harry's Sword | Harry | Side Quest | *harry_quest* | The Palace of the King | Not Done |
+| Fuze's Wish | Fuze | Side Quest | *fuze_quest* | - | Done |
+| The two fishermen | Dutch Fisherman, Faeke | Side Quest | *fisherman_quest* | - | Not Done |
+| Cassy's Emeralds | Cassy | Side Quest | *cassy_quest* | - | Not Done |
+| A Caveman's Request | Bibow | Side Quest | *bibow_quest* | Such a bitter man | Not Done |
+| Fishermen's Duty | Faeke | Side Quest | *faeke_quest* | Such a bitter man | Not Done |
+| A really lazy miner | Aywen | Side Quest | *aywen_quest* | - | Not Done |
+
+OTHERS:
+
+Make the Bazaar -> Not Done
+Make the Forge -> Whiler
+Make the King's Shop -> Not Done
+Finish the Paladium Placing -> Not Done
+Finish the Terraforming in King's Corridor -> Not Done
+Place Swords for Harry's Quest -> Not Done
+Make Foodian -> While

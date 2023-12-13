@@ -14,7 +14,7 @@
 | Mithril | Knight's Shaft (Mithril Geodes) | 50$ | 40xp | EPIC | 5 |
 | Titanium | Knight's Shaft (Titanium Cliffs) | 75$ | 50xp | EPIC | 5 |
 | Paladium | Knight's Shaft (Paladium Cave), Deep Den | 500$ | 150xp | LEGENDARY | 6 |
-| Foodium | Deep Den | 5000$ | 500xp | EXCLUSIVE | 7 |
+| Foodium | Deep Den | 5000$ | 5000xp | EXCLUSIVE | 7 |
 | Obsidian | Hell Quarry (Obsidian Corridor) | 750$ | 200xp | EPIC | 8 |
 | Luminite | Hell Quarry (Luminite Shafts) | 1000$ | 250xp | MYTHIC | 9 |
 
